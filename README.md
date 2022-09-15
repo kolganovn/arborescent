@@ -1,2 +1,2 @@
 # arborescent
-Mathematica codefor calculation of HOMFLY polynomial for arborescent-like knots with loops.
+Mathematica code for calculation of HOMFLY polynomial for arborescent-like knots with loops.
